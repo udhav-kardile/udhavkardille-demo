@@ -1,4 +1,4 @@
 # udhavkardille-demo
-This is mi very first Git Repository.
+This is my very first Git Repository.
 <br>
-Author - Udhav kardile(NGR)
+Author - Udhav kardile
